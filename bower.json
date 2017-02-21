@@ -1,0 +1,21 @@
+{
+  "name": "caly-admin",
+  "authors": [
+    "refgjin <refgjin@gmail.com>"
+  ],
+  "description": "caly-admin web client&server",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/CalyFactory/caly-admin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0"
+  }
+}
